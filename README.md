@@ -1,5 +1,5 @@
 # cities-api
-Projeto promovido pela DigitalInnovationOne
+Projeto promovido pela DigitalInnovationOne utilizando tecnologias como:
 Spring Boot
 https://start.spring.io/
 Java 8
