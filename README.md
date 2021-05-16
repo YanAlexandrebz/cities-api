@@ -1,10 +1,8 @@
 # cities-api
 Projeto promovido pela DigitalInnovationOne utilizando tecnologias como:
-Spring Boot
-https://start.spring.io/
-Java 8
-Gradle Project
-Jar
-Spring Web
-Spring Data JPA
-PostgreSQL Driver
+# Spring Boot
+# Java 8
+# Gradle Project
+# Heroku CLI
+# PostgreSQL
+# Docker
